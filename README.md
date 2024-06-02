@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+
+# TP-flutter
+# Members : Aziz, Lotefi et Saleh
+
 # store
 
 A new Flutter project.
@@ -35,6 +39,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> origin/secondaire
 =======
-# TP-flutter
-# Members : Aziz, Lotefi et Saleh
+
 >>>>>>> 01fc3a649f224d7acbe95214076cdfa038a16806
